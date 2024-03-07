@@ -28,4 +28,6 @@ Correo: claudio.delvalle@globant.com
 
 ## Proyectos
 
+https://github.com/AI-HUB-MTY/credit-scoring
+
 ## Recursos
