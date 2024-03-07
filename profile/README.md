@@ -23,6 +23,7 @@ Impulsar la innovación y adopción de la Inteligencia Artificial (IA) para el d
 ## Contacto
 
 Sitio web: https://sites.google.com/globant.com/aihub-monterrey/home
+
 Correo: claudio.delvalle@globant.com
 
 ## Proyectos
